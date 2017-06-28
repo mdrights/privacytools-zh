@@ -4,7 +4,7 @@ _Encryption Against Global Mass Surveillance._
 
 # About Simplified Chinese version
 
-- [privacytools.io 简体中文网站](https://cybermagicsec.github.io/privacytools-zh/) - [GitHub](https://github.com/cybermagicsec/privacytools-zh)
+- [privacytools.io 简体中文网站](https://mdrights.github.io/privacytools-zh/) - [GitHub](https://github.com/mdrights/privacytools-zh)
 
 # About Tradtional Chinese version
 
